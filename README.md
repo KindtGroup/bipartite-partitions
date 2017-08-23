@@ -19,5 +19,5 @@ integer partition.
 
 Input is Nmax, NA.
 
-Output is not in a regular "alphabetical", is grouped by the "parent" integer
+Output is not in a regular "lexicographic" order, is grouped by the "parent" integer
 partitions of Nmax.
